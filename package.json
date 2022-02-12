@@ -9,8 +9,8 @@
   ],
   "module": "dist/core-sdk.esm.js",
   "repository": {
-    "url": "sushiswap/sdk",
-    "directory": "packages/core-sdk"
+    "type": "git",
+    "url": "git+https://github.com/larisara/core-sdk.git"
   },
   "publishConfig": {
     "access": "public",
